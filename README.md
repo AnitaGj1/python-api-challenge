@@ -82,3 +82,6 @@ I've created a map that displays a point for every city from the previous data f
 After adjusting my specifications to find my ideal weather conditions (Temperature between 20 and 35 Celzius degrees, and humidity 40-70%), I've created the map only with the cities that fit my specifications and added the nearby hotel as information.
 
 ![bokeh_plot](https://user-images.githubusercontent.com/122633144/229185896-c45b88ac-da4b-46cb-97ad-a0ae074e4ad2.png)
+
+
+NOTE - In the part where we should add the accomododation.hotel in the loop, I worked with the TA who helped me create the аpproprite parametars for the url.
